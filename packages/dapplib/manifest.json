@@ -1,0 +1,10 @@
+{
+    "name": "demo",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/administrator_role": false,
+        "/category/collection/entity": false
+    }
+}
